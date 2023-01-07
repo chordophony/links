@@ -8,4 +8,4 @@ layout: page
 - [chordophony github](http://github.com/chordophony)
 - [IG](http://instagram.com/chordophony)
 - ChatGPT Songs
-  - [Across the Universe](./songs/chatgpt/across_the_universe]
+  - [Across the Universe](./songs/chatgpt/across_the_universe)
