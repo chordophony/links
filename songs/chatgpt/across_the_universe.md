@@ -34,7 +34,7 @@ It's the only way to truly survive /
 In this crazy world we're living in
 
 Outro:
-So let's sing this song
-For all the world to hear
-Love is all we need
+So let's sing this song /
+For all the world to hear /
+Love is all we need /
 To bring us all together, my dear
