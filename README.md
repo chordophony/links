@@ -6,7 +6,17 @@
 - ChatGPT Songs
   - [Across the Universe](./songs/chatgpt/across_the_universe)
 
-## Blog ##
-{% for post in site.blogposts %}
-- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url | relative_url }})
+## Collections ##
+{% for collection in site.collections %}
+
+  {% assign name = collection.label %}
+  
+    <h1>{{ name }}</h1>
+
+    {% for post in site.[name] %}
+    <ul>
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    </ul>
+    {% endfor %}
+
 {% endfor %}
