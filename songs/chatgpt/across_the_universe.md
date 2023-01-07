@@ -1,8 +1,8 @@
-***Me:  Please can you write a song to the tune of “Across the Universe” by the Beatles?***
+Chordophony:  Please can you write a song to the tune of “Across the Universe” by the Beatles?
 
-**ChatGPT:  Sure! Here is a song to the tune of "Across the Universe" by the Beatles:**
+ChatGPT:  Sure! Here is a song to the tune of "Across the Universe" by the Beatles:
 
-#Verse 1:#
+Verse 1:
 Sitting in my room
 Thinking about the world outside
 So much happening
