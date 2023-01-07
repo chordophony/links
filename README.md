@@ -8,15 +8,9 @@
 
 ## Collections ##
 {% for collection in site.collections %}
-
   {% assign name = collection.label %}
-  
-    <h1>{{ name }}</h1>
-
+    {{ name }}
     {% for post in site.[name] %}
-    <ul>
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    </ul>
+      - [{{ post.url }}]({{ post.title }})
     {% endfor %}
-
 {% endfor %}
