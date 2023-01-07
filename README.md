@@ -7,10 +7,11 @@
   - [Across the Universe](./songs/chatgpt/across_the_universe)
 
 ## Collections ##
+
 {% for collection in site.collections %}
   {% assign name = collection.label %}
     {{ name }}
     {% for post in site.[name] %}
-      - [{{ post.url }}]({{ post.title }})
+  - [{{ post.url }}]({{ post.title }})
     {% endfor %}
 {% endfor %}
