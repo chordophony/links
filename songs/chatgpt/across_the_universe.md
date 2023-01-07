@@ -1,6 +1,6 @@
-Please can you write a song to the tune of “Across the Universe” by the Beatles?
+***Me:  Please can you write a song to the tune of “Across the Universe” by the Beatles?***
 
-Sure! Here is a song to the tune of "Across the Universe" by the Beatles:
+**ChatGPT:  Sure! Here is a song to the tune of "Across the Universe" by the Beatles:**
 
 Verse 1:
 Sitting in my room
