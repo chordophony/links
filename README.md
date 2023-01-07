@@ -10,7 +10,7 @@
 
 {% for collection in site.collections %}
   {% assign name = collection.label %}
-    {{ name }}
+# {{ name }} #
     {% for post in site.[name] %}
   - [{{ post.url }}]({{ post.title }})
     {% endfor %}
