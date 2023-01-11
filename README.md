@@ -6,6 +6,6 @@
   {% assign name = collection.label %}
 # {{ name }} #
     {% for post in site.[name] %}
-|[{{ post.title }}]({{ post.url }})
-    {% endfor %}|
+      [{{ post.title }}]({{ post.url }})
+    {% endfor %}
 {% endfor %}
